@@ -10,13 +10,16 @@ Each problem solved in this repository has its own file, which includes the solu
 
 - [383. Ransom Note](/383_Ransom_Note.java)
 - [412. Fizz Buzz](/412_Fizz_Buzz.java)
+- [605. Can Place Flowers](/605_Can_Place_Flowers.java)
 - [876. Middle of the Linked List](/876_Middle_of_the_Linked_List.java)
 - [1071. Greatest Common Divisor of Strings](/1071_Greatest_Common_Divisor_of_Strings.java)
 - [1342. Number of Steps to Reduce a Number to Zero](/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.java)
 - [1431. Kids With the Greatest Number of Candies](/1431_Kids_With_the_Greatest_Number_of_Candies.java)
 - [1480. Running Sum of 1d Array](/1480_Running_Sum_of_1d_Array.java)
 - [1672. Richest Customer Wealth](/1672_Richest_Customer_Wealth.java)
+- [1732. Find the Highest Altitude](/1732_Find_the_Highest_Altitude.java)
 - [1768. Merge Strings Alternately](/1768_Merge_Strings_Alternately.java)
+- [2390. Removing Stars From a String](/2390_Removing_Stars_From__a_String.java)
 
 ## How to Use This Repository
 
