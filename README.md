@@ -12,6 +12,7 @@ Each problem solved in this repository has its own file, which includes the solu
 - [412. Fizz Buzz](/412_Fizz_Buzz.java)
 - [605. Can Place Flowers](/605_Can_Place_Flowers.java)
 - [643. Maximum Average Subarray I](/643_Maximum_Average_Subarray_I.java)
+- [724. Find Pivot Index](/724_Find_Pivot_Index.java)
 - [876. Middle of the Linked List](/876_Middle_of_the_Linked_List.java)
 - [1071. Greatest Common Divisor of Strings](/1071_Greatest_Common_Divisor_of_Strings.java)
 - [1342. Number of Steps to Reduce a Number to Zero](/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.java)
